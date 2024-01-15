@@ -1,0 +1,24 @@
+--CREATE TABLE EmployeeInfo(
+--EmployeeID int IDENTITY(1,1) PRIMARY KEY,
+--EmployeeNum int,
+--FirstName varchar(50),
+--LastName varchar(50),
+--Age int,
+--Gender varchar(50)
+--)
+
+--Create Table EmployeeSalary 
+--(EmployeeID int, 
+--EmployeeNum int,
+--JobTitle varchar(50), 
+--Salary int
+--)
+
+--CREATE TABLE WarehouseEmployeeInfo(
+--	EmployeeID int IDENTITY(1,1) PRIMARY KEY,
+--	EmployeeNum int,
+--	FirstName varchar(50),
+--	LastName varchar(50),
+--	Age int,
+--	Gender varchar(50)
+--)
